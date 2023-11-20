@@ -1,0 +1,5 @@
+.completed{
+    /* text-decoration: dashed; */
+    text-decoration: line-through;
+    color: gray;
+}
